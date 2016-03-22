@@ -1,0 +1,40 @@
+﻿colormag****
+profitmag
+magzimum*****
+dymamic
+
+Colormag
+front-page.php
+content.php
+navigation.php
+
+Profitmag
+front-page.php
+
+Maximum
+front-page.php
+template-parts/content.php
+
+
+3 baner --
+
+like share every page load 3 --
+
+change baner - right-side-bar --
+
+share icon size --
+
+google adsense pub-2222787493344921
+
+ข่าวที่เกี่ยวข้องต้องโชวรูป --
+
+หน้าเพจ ตอนกดลิ้งออกไปเว็บอื่น
+
+แชร์โดย--
+
+ปุ่ม แชร์ ใหญ่--
+
+เฟสบุ๊ค ไม่ขยาย
+
+if($show_credit == 1) {
+show credit และ รูปภาพ
